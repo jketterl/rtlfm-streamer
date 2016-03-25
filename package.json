@@ -1,0 +1,15 @@
+{
+  "name": "rtlfm-streamer",
+  "version": "0.0.0",
+  "description": "web ui to control rtl_fm and stream the output",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jakob Ketterl <jakob.ketterl@gmx.de>",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "express": "^4.13.4"
+  }
+}
